@@ -280,11 +280,6 @@ This project is designed for academic and public health applications.
 - Verify all dependencies are installed correctly
 - Ensure sufficient disk space for cache and outputs
 
-## 🤖 AI Tools Used
-
-- **Microsoft Copilot**: Understanding project requirements
-- **ChatGPT**: Project structure and design planning  
-- **DeepSeek**: Debugging and identifying missing features, updating README.md file
 
 ## 🙏 Acknowledgments
 
